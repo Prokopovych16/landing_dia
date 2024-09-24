@@ -19,7 +19,7 @@ Created a sleek and professional **strategic consulting landing page** using mod
 - Clone the repository:
   - _git clone https://github.com/Prokopovych16/landing_dia.git_
 - Navigate to the project folder:
-  - _cd landing_kickstarter_
+  - _cd landing_dia_
 - Install dependencies:
   - _npm install_
 - Run the project:
